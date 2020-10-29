@@ -6,7 +6,7 @@ GoCord is a Go package that provides low level bindings to the Discord chat clie
 # Getting Started <h3>
   Installation <h1> 
   
-  ```go 
+  `` 
   go get https://github.com/devvity/GoCord
-  ```
+  ``
   
