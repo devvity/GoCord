@@ -3,8 +3,10 @@ GoCord is a Go package that provides low level bindings to the Discord chat clie
 
 **Please remember self discord bots are not allowed on discord, and you can possibly get banned for it.**
 
-# Getting Started <h3>
-  ## Installation <h1> 
+## Getting Started <h3>
+  **Installation**
+  
+  go get is a easy to use GOLang package downloader.
   
   ```javascript
   go get https://github.com/devvity/GoCord
